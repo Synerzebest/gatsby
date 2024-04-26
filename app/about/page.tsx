@@ -12,7 +12,7 @@ const page = () => {
 
                 <p className="text-center text-xl">Depuis le jour où nous avons ouvert nos portes à Bruxelles, nous avons gagné notre place de Barbershop. Nous offrons des soins de beauté sans pareils, tout en restant à l&apos;écoute du rythme de vie de nos clients, ainsi nous vous prodiguerons des soins de beauté aussi rapides que possible.</p>
 
-                <p className="text-center text-xl">Au fil des ans, notre équipe de spécialistes s'est donnée pour mission de bichonner au maximum nos merveilleux clients. Contactez-nous et découvrez ce que notre équipe de spécialistes peut faire pour vous.<br></br><br></br> Vous pouvez également passer nous voir pour profiter de nos services sans rendez-vous.</p>
+                <p className="text-center text-xl">Au fil des ans, notre équipe de spécialistes s&apos;est donnée pour mission de bichonner au maximum nos merveilleux clients. Contactez-nous et découvrez ce que notre équipe de spécialistes peut faire pour vous.<br></br><br></br> Vous pouvez également passer nous voir pour profiter de nos services sans rendez-vous.</p>
             </div>
 
             <div className="relative top-[5rem]">
